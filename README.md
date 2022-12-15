@@ -39,7 +39,7 @@ This repo will teach you how to build a web scraper using Python Scrapy that wil
 
 First 10 records of the database.
 
-![image](https://user-images.githubusercontent.com/72005563/207714195-3b01d55d-6281-4ac8-8171-f10371513d70.png)
+![image](https://user-images.githubusercontent.com/72005563/207741829-0b69a991-d0a3-453a-821a-faf8cb81660e.png)
 
 ## Project Requirements
 
