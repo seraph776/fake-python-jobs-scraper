@@ -11,7 +11,10 @@
 [![Contribute](https://img.shields.io/badge/Contribute-black?&logo=github&logoColor=black&label=&flat&labelColor=yellow)](https://github.com/seraph776/QuickStartTemplate/blob/main/contributing.md) [![Report Bugs](https://img.shields.io/badge/Report%20Bugz-black?&logo=github&logoColor=black&label=&flat&labelColor=red)](https://github.com/seraph776/QuickStartTemplate/issues/new/choose)
 
 
-<img src="https://user-images.githubusercontent.com/72005563/193153931-1d4aec4f-f7ab-4b30-95fb-635ca3e7333c.png" width=250>
+<img src="https://user-images.githubusercontent.com/72005563/207743034-c5749c25-d6c0-43fe-94bb-770a1e038068.png" width=450>
+
+
+
 
 
 _Eat, Sleep, Code, Repeat!_ - Sun Tzu
