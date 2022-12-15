@@ -11,8 +11,7 @@
 [![Contribute](https://img.shields.io/badge/Contribute-black?&logo=github&logoColor=black&label=&flat&labelColor=yellow)](https://github.com/seraph776/QuickStartTemplate/blob/main/contributing.md) [![Report Bugs](https://img.shields.io/badge/Report%20Bugz-black?&logo=github&logoColor=black&label=&flat&labelColor=red)](https://github.com/seraph776/QuickStartTemplate/issues/new/choose)
 
 
-<img src="https://user-images.githubusercontent.com/72005563/207743034-c5749c25-d6c0-43fe-94bb-770a1e038068.png" width=450>
-
+<img src="https://user-images.githubusercontent.com/72005563/207742567-30da1c15-9f8f-436d-8486-a57ff99ce4ff.png" width=450>
 
 
 
